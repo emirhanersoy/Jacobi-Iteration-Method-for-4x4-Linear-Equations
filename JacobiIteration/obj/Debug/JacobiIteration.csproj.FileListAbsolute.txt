@@ -1,0 +1,7 @@
+C:\Users\Emirhan\Desktop\JacobiIteration\JacobiIteration\bin\Debug\JacobiIteration.exe.config
+C:\Users\Emirhan\Desktop\JacobiIteration\JacobiIteration\bin\Debug\JacobiIteration.exe
+C:\Users\Emirhan\Desktop\JacobiIteration\JacobiIteration\bin\Debug\JacobiIteration.pdb
+C:\Users\Emirhan\Desktop\JacobiIteration\JacobiIteration\obj\Debug\JacobiIteration.csproj.AssemblyReference.cache
+C:\Users\Emirhan\Desktop\JacobiIteration\JacobiIteration\obj\Debug\JacobiIteration.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\Desktop\JacobiIteration\JacobiIteration\obj\Debug\JacobiIteration.exe
+C:\Users\Emirhan\Desktop\JacobiIteration\JacobiIteration\obj\Debug\JacobiIteration.pdb
